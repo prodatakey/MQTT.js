@@ -72,7 +72,7 @@
     "help-me": "^1.0.1",
     "inherits": "^2.0.3",
     "minimist": "^1.2.0",
-    "mqtt-packet": "^6.0.0",
+    "mqtt-packet": "git+ssh://git@github.com:prodatakey/mqtt-packet.git#pdk-master",
     "pump": "^3.0.0",
     "readable-stream": "^2.3.6",
     "reinterval": "^1.1.0",
